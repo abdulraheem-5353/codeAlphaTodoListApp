@@ -22,6 +22,7 @@ function App() {
     const newTodoItems = todoItems.filter(item => item.name !== todoItemName);
     setTodoItems(newTodoItems);
     
+    
 
   }
   return (
