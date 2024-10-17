@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeAlphaTodoListApp/static/css/main.7c2a0eaf.css",
+    "main.js": "/codeAlphaTodoListApp/static/js/main.89d9d4af.js",
+    "index.html": "/codeAlphaTodoListApp/index.html",
+    "main.7c2a0eaf.css.map": "/codeAlphaTodoListApp/static/css/main.7c2a0eaf.css.map",
+    "main.89d9d4af.js.map": "/codeAlphaTodoListApp/static/js/main.89d9d4af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2a0eaf.css",
+    "static/js/main.89d9d4af.js"
+  ]
+}
